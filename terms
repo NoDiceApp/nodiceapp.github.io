@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NoDice — Terms of Use</title>
+<link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Lora', serif;
+    background: #FAFAF7;
+    color: #333;
+    line-height: 1.7;
+    min-height: 100vh;
+    padding: 60px 20px;
+  }
+  .container {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+  .logo-wrap {
+    text-align: center;
+    margin-bottom: 32px;
+  }
+  .logo-wrap img {
+    width: 100px;
+    height: auto;
+    object-fit: contain;
+  }
+  h1 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #CD4637;
+    letter-spacing: -1px;
+    text-align: center;
+    margin-bottom: 6px;
+  }
+  .subtitle {
+    text-align: center;
+    font-size: 14px;
+    color: #888;
+    margin-bottom: 48px;
+  }
+  h2 {
+    font-size: 18px;
+    font-weight: 700;
+    color: #1A1A1A;
+    margin-top: 36px;
+    margin-bottom: 10px;
+  }
+  p {
+    font-size: 15px;
+    color: #444;
+    margin-bottom: 14px;
+  }
+  a {
+    color: #CD4637;
+    text-decoration: none;
+  }
+  a:hover { text-decoration: underline; }
+  .nav {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    margin-top: 56px;
+    padding-top: 24px;
+    border-top: 1px solid #E5E5E0;
+  }
+  .nav a {
+    font-size: 14px;
+    color: #CD4637;
+  }
+</style>
+</head>
+<body>
+  <div class="container">
+
+    <div class="logo-wrap">
+      <img src="data:image/png;base64,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" alt="NoDice" width="80" style="display:block;margin:0 auto 16px;">
+    </div>
+
+    <h1>Terms of Use</h1>
+    <p class="subtitle">Last updated: April 16, 2026</p>
+
+    <h2>1. Acceptance of Terms</h2>
+    <p>By downloading, installing, or using NoDice ("the App"), you agree to be bound by these Terms of Use. If you do not agree to these terms, do not use the App.</p>
+
+    <h2>2. Description of Service</h2>
+    <p>NoDice is a gambling-blocking application for iOS that uses a DNS proxy to prevent access to gambling websites and applications. The App also provides streak tracking, savings estimates, and activity logging to support your recovery journey.</p>
+    <p>NoDice is designed as a support tool and is not a substitute for professional counseling, therapy, or medical treatment for gambling disorder.</p>
+
+    <h2>3. Subscriptions and Payments</h2>
+    <p>NoDice offers auto-renewable subscription plans that unlock full access to the App's features. Subscriptions are billed through your Apple ID account via the App Store. Payment is charged at confirmation of purchase.</p>
+    <p>Subscriptions automatically renew at the end of each billing period unless cancelled at least 24 hours before the renewal date. You can manage and cancel your subscription at any time through your Apple ID account settings.</p>
+    <p>No refunds are provided for partial subscription periods. Pricing is displayed at the time of purchase and may vary by region.</p>
+    <p>By subscribing, you also agree to Apple's <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/" target="_blank">Standard End User License Agreement (EULA)</a>.</p>
+
+    <h2>4. User Responsibilities</h2>
+    <p>You are responsible for maintaining your account credentials and for all activity under your account. You agree not to attempt to circumvent, disable, or otherwise interfere with the App's blocking functionality.</p>
+    <p>NoDice is intended for personal, non-commercial use only.</p>
+
+    <h2>5. Limitations of the Service</h2>
+    <p>The App blocks gambling domains at the DNS level on your device. It does not guarantee that all gambling content will be blocked, as new domains may emerge or content may be accessible through other means. NoDice is one tool in your recovery, not a complete solution.</p>
+    <p>The App requires an active internet connection and iOS permissions to function. Performance may vary based on device settings and third-party VPN conflicts.</p>
+
+    <h2>6. Privacy</h2>
+    <p>Your use of the App is also governed by our <a href="privacy.html">Privacy Policy</a>, which is incorporated into these Terms by reference. We do not collect, store, or transmit your browsing or DNS query data.</p>
+
+    <h2>7. Disclaimer of Warranties</h2>
+    <p>The App is provided "as is" without warranties of any kind, express or implied. We do not warrant that the App will be uninterrupted, error-free, or free of harmful components.</p>
+
+    <h2>8. Limitation of Liability</h2>
+    <p>To the fullest extent permitted by law, NoDice and its developers shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of or inability to use the App.</p>
+
+    <h2>9. Changes to These Terms</h2>
+    <p>We may update these Terms from time to time. Continued use of the App after changes are posted constitutes acceptance of the revised Terms. We will update the "Last updated" date at the top of this page when changes are made.</p>
+
+    <h2>10. Governing Law</h2>
+    <p>These Terms are governed by the laws of the State of Delaware, without regard to conflict of law principles.</p>
+
+    <h2>11. Contact</h2>
+    <p>If you have questions about these Terms, please visit our <a href="support.html">Support page</a>.</p>
+
+    <div class="nav">
+      <a href="index.html">Home</a>
+      <a href="privacy.html">Privacy Policy</a>
+      <a href="support.html">Support</a>
+    </div>
+
+  </div>
+</body>
+</html>
